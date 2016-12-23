@@ -1,1 +1,2 @@
-# Game_ID_1
+# Normal First Project
+# Simple action shooter game!
